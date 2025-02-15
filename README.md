@@ -18,7 +18,7 @@ This project enables users to create AI-driven chatbots for retrieving informati
 ### 1. Clone the Repository
 Run the following command in your terminal:
 ```sh
-git clone <your-repository-url>
+git clone https://github.com/Sumit0673/RAG-LANG-Application.git
 ```
 
 ### 2. Set Up OpenAI API Key
